@@ -1,2 +1,1 @@
-# Pagina-de-assinatura
-Uma página de assinatura
+https://andrey-spereira.github.io/Pagina-de-assinatura/
